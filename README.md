@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- Currently working at [Aston]{https://astondevs.ru/}
+- Currently working at [Aston](https://astondevs.ru/)
 - Junior Software Engineer
 - Java Enthusiast
-- How to reach me: [bilguuk125@gmail.com]{mailto:bilguuk125@gmail.com}
+- How to reach me: [bilguuk125@gmail.com](mailto:bilguuk125@gmail.com)
 
 
 <!--
