@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilguuk124&label=Profile%20views&color=0e75b6&style=flat" alt="bilguuk124" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilguuk124" alt="bilguuk124" /></a> </p>
+- 💬 Ask me about **java, spring, cloud-native, backend,**
+
+- 📫 How to reach me **bilguuk125@gmail.com**
+
+- ⚡ Fun fact **I am graduating in july 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
