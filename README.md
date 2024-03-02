@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/bilguuk124/count.svg?"  />
-  <p><a href="https://www.buymeacoffee.com/bilguuk124"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bilguuk124" /></a></p><br><br>
+  <p><a href="https://www.buymeacoffee.com/bilguuk124"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bilguuk124" /></a></p><br><br>
 </div>
 
 ###
