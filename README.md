@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Currently working at [Aston]{https://astondevs.ru/}
+- Junior Software Engineer
+- Java Enthusiast
+- How to reach me: [bilguuk125@gmail.com]{mailto:bilguuk125@gmail.com}
+
+
 <!--
 **bilguuk124/bilguuk124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
